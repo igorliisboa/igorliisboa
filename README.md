@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 My name's Igor Lisboa Fernandes
-I'm a amateur programmer
+I'm a programmer
 
 Software Engineer student 2/6
 
