@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-My name's Igor Lisboa Fernandes
+My name's Igor Lisboa Fernandes from Brazil
 and I'm a programmer
 
 Software Engineering student 2/6
