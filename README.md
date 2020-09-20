@@ -7,7 +7,7 @@ Software Engineer student 2/6
 
 Skills: HTML5/ CSS3/ JAVASCRIPT/ BOOTSTRAP/  MYSQL/ 
 
-- 🔭 I’m currently working on this page. 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorliisboa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
