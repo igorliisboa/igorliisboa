@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-My name is Igor Lisboa Fernandes
+My name's Igor Lisboa Fernandes
 I'm a Software Engineer student
 
 
