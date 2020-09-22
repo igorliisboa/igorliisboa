@@ -12,10 +12,9 @@ preview
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorliisboa&langs_count=8)
 
-align= "center"
+<p align="center">
 **Social media**
 
-<p align="center">
 <a href="https://twitter.com/@imjouska" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@imjouska" height="30" width="30" /></a>
 <a href="https://instagram.com/igorliisboa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="igorliisboa_" height="30" width="30" /></a>
 </p>
