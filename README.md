@@ -12,6 +12,7 @@ preview
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorliisboa&langs_count=8)
 
+align= "center"
 **Social media**
 
 <p align="center">
