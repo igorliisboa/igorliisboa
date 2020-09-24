@@ -1,7 +1,7 @@
 preview
 <h1 align="center">Hi 👋, I'm Igor Lisboa</h1>
 <h3 align="center">Hi there! My name's Igor Lisboa Fernandes from Brazil and I'm a programmer</h3>
-<h3 align="center">SSoftware Engineering - Universidade de Vassouras
+<h3 align="center">Software Engineering - Universidade de Vassouras
 
 </h3>
 
