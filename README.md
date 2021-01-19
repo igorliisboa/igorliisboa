@@ -14,4 +14,4 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorliisboa&layout=compact&hide=html" alt="igorliisboa" />
 
 
-- 🌱 I’m currently learning C/C++ 
+- 🌱 I’m currently learning C++ 
