@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor Lisboa</h1>
-<h3 align="center">Hi there! My name's Igor Lisboa Fernandes from Brazil and I'm a programmer Software Engineering - Universidade de Vassouras</h3>
+<h3 align="center">Hi there! My name's Igor Lisboa Fernandes from Brazil and I'm a programmer, and I'm studying Software Engineering at Universidade de Vassouras</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
