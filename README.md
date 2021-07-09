@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor Lisboa</h1>
-<h3 align="center">I'm a Brazilian programmer who loves anything that involves technology. I am currently studying Software Engineering at Universidade de Vassouras and at this moment I focused on learning Python, which is my favorite programming language. </h3>
+<h3 align="center">I'm a Brazilian programmer who loves anything that involves technology. I am currently studying Software Engineering at [Universidade de Vassouras](https://universidadedevassouras.edu.br) and at this moment I focused on learning Python, which is my favorite programming language. </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
