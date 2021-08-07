@@ -11,7 +11,7 @@
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 <p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorliisboa&layout=compact&hide=html" alt="igorliisboa"></p>
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=igorliisboa&show_icons=true&theme=dark)
+ ![igorliisboa's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorliisboa&show_icons=true&theme=dark)
 
 
 <h3 align="left">Connect with me:</h3>
