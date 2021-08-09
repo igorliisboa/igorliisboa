@@ -1,4 +1,4 @@
-![abstract-view-modern-architecture](https://user-images.githubusercontent.com/62958588/128763880-a39a31ed-f1c9-46c8-8b3a-1369949fb17b.jpg)
+![abstract-view-modern-architecture](https://user-images.githubusercontent.com/62958588/128765564-112c3fe7-4a30-43e3-9e2f-2125ce2fd938.jpg)
 <p><h1 align="center">I'm Igor Lisboa 👋</h1></p>
 <h3 align="center">I'm a Brazilian programmer who loves anything that involves technology. I am currently studying Software Engineering at Universidade de Vassouras and at this moment I focused on learning Python, which is my favorite programming language. </h3>
 
