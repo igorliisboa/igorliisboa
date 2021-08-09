@@ -12,7 +12,9 @@
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 <p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorliisboa&layout=compact&hide=html" alt="igorliisboa"></p>
+![igorliisboa's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorliisboa=true&theme=radical)
 
+ 
 <h3 align="left">My social networks:</h3>
 <p align="left">
 <a href="https://twitter.com/imjouska" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imjouska" height="30" width="40" /></a>
