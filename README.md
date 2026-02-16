@@ -1,6 +1,6 @@
 ![abstract-view-modern-architecture](https://user-images.githubusercontent.com/62958588/128765564-112c3fe7-4a30-43e3-9e2f-2125ce2fd938.jpg)
 <p><h1 align="center">I'm Igor Lisboa 👋</h1></p>
-<h3 align="center">I'm a Brazilian programmer who loves anything that involves technology. I am currently studying Software Engineering at Universidade de Vassouras and at this moment I focused on learning about Cyber security. </h3>
+<h3 align="center">I'm a Brazilian programmer who loves anything that involves technology. </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
