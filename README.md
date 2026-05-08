@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Igor Lisboa</h1>
 <h3 align="center">I'm a Brazilian programmer who loves anything that involves technology.</h3>
 
@@ -53,4 +52,3 @@
   </a>
 </p>
 
-```
